@@ -1,0 +1,11 @@
+cyclist_id,zone_id,name,phone,state,retainer_ngn,bonus_threshold,bonus_per_delivery_ngn,trained_at,status
+69299c29-f01c-5c79-0a50-48e4eff5ffb1,495db021-ac8d-1a7e-14d1-734c7eab475c,Emeka O.,+2340000002000,off_shift,2310,6,150,2026-07-02,active
+2b6b4ad8-ef57-1f0d-e8e7-cb31c7b69fa6,495db021-ac8d-1a7e-14d1-734c7eab475c,Somto I.,+2340000002001,off_shift,2310,6,150,2026-07-02,active
+c96153c0-9b0d-f37e-ca6e-b5c4b68db2e1,495db021-ac8d-1a7e-14d1-734c7eab475c,Chidi A.,+2340000002002,off_shift,2310,6,150,2026-07-02,active
+d00abc62-b2e4-5922-87d7-fc6d1dfa4f1c,495db021-ac8d-1a7e-14d1-734c7eab475c,Ngozi E.,+2340000002003,off_shift,2310,6,150,2026-07-02,active
+7b91cc3c-4b18-6cc5-4efb-073d09b69fe1,495db021-ac8d-1a7e-14d1-734c7eab475c,Tobe N.,+2340000002004,off_shift,2310,6,150,2026-07-02,active
+8db1e670-2775-fb67-fc1b-c8167f44e0d2,495db021-ac8d-1a7e-14d1-734c7eab475c,Ifeanyi K.,+2340000002005,off_shift,2310,6,150,2026-07-02,active
+76b85dc7-1c9b-18a0-f8ff-e990212e3e79,495db021-ac8d-1a7e-14d1-734c7eab475c,Uche M.,+2340000002006,off_shift,2310,6,150,2026-07-02,active
+3abf92f9-a4dc-1a36-7e75-d8161b354a02,495db021-ac8d-1a7e-14d1-734c7eab475c,Kelechi D.,+2340000002007,off_shift,2310,6,150,2026-07-02,active
+e427adf9-8a10-0257-da79-65d824258555,495db021-ac8d-1a7e-14d1-734c7eab475c,Amaka C.,+2340000002008,off_shift,2310,6,150,2026-07-02,active
+71cb5430-bfa4-0a03-10cc-7be6e80afbe8,495db021-ac8d-1a7e-14d1-734c7eab475c,Obinna U.,+2340000002009,off_shift,2310,6,150,2026-07-02,active

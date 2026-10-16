@@ -1,0 +1,2 @@
+zone_id,name,hub_lat,hub_lng,open_from,open_to,fixed_rate_ngn,cancel_fee_pct,ack_timeout_s,queue_alert_s,handover_grace_s,pickup_alert_s,delivery_alert_s,payment_expiry_s,max_weight_kg,max_value_ngn
+495db021-ac8d-1a7e-14d1-734c7eab475c,Zone 1 · World Bank Road,5.4836,7.0333,12:00,23:30,900,0.2,60,180,300,600,1800,600,8,50000

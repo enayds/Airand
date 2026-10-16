@@ -1,0 +1,9 @@
+vendor_id,zone_id,name,category,contact_name,phone,pickup_address,pickup_lat,pickup_lng,trial_start,status,onboarded_by
+8b7fdbea-b573-27c6-8654-df9ea01818c8,495db021-ac8d-1a7e-14d1-734c7eab475c,Suya Republic,food,Contact 1,+2340000001000,"Plot 10, World Bank Road area",5.492226,7.039526,2026-07-06,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+1dd2a4d9-3c3e-72ae-02f0-54911b944d10,495db021-ac8d-1a7e-14d1-734c7eab475c,Grillz & Pepper Soup,food,Contact 2,+2340000001001,"Plot 13, World Bank Road area",5.473529,7.027476,2026-07-06,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+e00e234e-5e59-e89a-6d44-e2fb935286cb,495db021-ac8d-1a7e-14d1-734c7eab475c,Mama Chi's Kitchen,food,Contact 3,+2340000001002,"Plot 16, World Bank Road area",5.476825,7.023362,2026-07-06,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+20c8b14b-364e-95ad-225d-01ad7fa78dc5,495db021-ac8d-1a7e-14d1-734c7eab475c,Ada's Home Kitchen,food,Contact 4,+2340000001003,"Plot 19, World Bank Road area",5.475586,7.038848,2026-07-06,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+aab90131-077c-a73b-0f58-84287532cb38,495db021-ac8d-1a7e-14d1-734c7eab475c,Kopy Corner,print,Contact 5,+2340000001004,"Plot 22, World Bank Road area",5.473942,7.031766,2026-07-16,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+1f87e78f-45e5-f1ed-f3b3-2bbd2ec10443,495db021-ac8d-1a7e-14d1-734c7eab475c,Bella Fabrics,retail,Contact 6,+2340000001005,"Plot 25, World Bank Road area",5.480892,7.026771,2026-07-23,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+09da7a1c-3a14-983c-5b5b-c484ebefb77a,495db021-ac8d-1a7e-14d1-734c7eab475c,Uncle T's Shawarma,food,Contact 7,+2340000001006,"Plot 28, World Bank Road area",5.483844,7.033203,2026-07-30,active,3277db7e-8283-ddd9-49e7-df3eeacb8710
+a7a790a1-3e90-49c6-afed-972fa14765c2,495db021-ac8d-1a7e-14d1-734c7eab475c,Zobo & Small Chops,food,Contact 8,+2340000001007,"Plot 31, World Bank Road area",5.476627,7.023645,2026-08-13,active,3277db7e-8283-ddd9-49e7-df3eeacb8710

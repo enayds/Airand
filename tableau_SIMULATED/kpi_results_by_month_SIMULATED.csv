@@ -1,0 +1,210 @@
+kpi,name,op_month,measure,value
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-07,median_mins,0.35
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-07,p90_mins,0.57
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-07,peak_within_2min,0.995
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-08,median_mins,0.37
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-08,p90_mins,2.67
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-08,peak_within_2min,0.901
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-09,median_mins,0.4
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-09,p90_mins,8.83
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-09,peak_within_2min,0.805
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-10,median_mins,0.43
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-10,p90_mins,11.78
+K01,Request-to-assignment time (minutes; % within 2 min at peak),2026-10,peak_within_2min,0.79
+K02,Time to vendor (minutes),2026-07,median_mins,4.03
+K02,Time to vendor (minutes),2026-07,p90_mins,6.28
+K02,Time to vendor (minutes),2026-07,within_8min,0.975
+K02,Time to vendor (minutes),2026-08,median_mins,4.03
+K02,Time to vendor (minutes),2026-08,p90_mins,6.3
+K02,Time to vendor (minutes),2026-08,within_8min,0.964
+K02,Time to vendor (minutes),2026-09,median_mins,3.97
+K02,Time to vendor (minutes),2026-09,p90_mins,6.48
+K02,Time to vendor (minutes),2026-09,within_8min,0.964
+K02,Time to vendor (minutes),2026-10,median_mins,4.22
+K02,Time to vendor (minutes),2026-10,p90_mins,6.85
+K02,Time to vendor (minutes),2026-10,within_8min,0.972
+K03,Vendor handover time (minutes),2026-07,median_mins,2.58
+K03,Vendor handover time (minutes),2026-07,p90_mins,11.07
+K03,Vendor handover time (minutes),2026-08,median_mins,2.4
+K03,Vendor handover time (minutes),2026-08,p90_mins,8.12
+K03,Vendor handover time (minutes),2026-09,median_mins,2.38
+K03,Vendor handover time (minutes),2026-09,p90_mins,8.93
+K03,Vendor handover time (minutes),2026-10,median_mins,2.65
+K03,Vendor handover time (minutes),2026-10,p90_mins,8.48
+K04,"Delivery time, pickup to door (minutes)",2026-07,median_mins,12.38
+K04,"Delivery time, pickup to door (minutes)",2026-07,p90_mins,18.97
+K04,"Delivery time, pickup to door (minutes)",2026-08,median_mins,12.72
+K04,"Delivery time, pickup to door (minutes)",2026-08,p90_mins,20.63
+K04,"Delivery time, pickup to door (minutes)",2026-09,median_mins,12.78
+K04,"Delivery time, pickup to door (minutes)",2026-09,p90_mins,20.18
+K04,"Delivery time, pickup to door (minutes)",2026-10,median_mins,13.87
+K04,"Delivery time, pickup to door (minutes)",2026-10,p90_mins,24.17
+K05,"End-to-end time, paid to delivered (minutes)",2026-07,median_mins,20.72
+K05,"End-to-end time, paid to delivered (minutes)",2026-07,p90_mins,33.13
+K05,"End-to-end time, paid to delivered (minutes)",2026-08,median_mins,21.35
+K05,"End-to-end time, paid to delivered (minutes)",2026-08,p90_mins,35.8
+K05,"End-to-end time, paid to delivered (minutes)",2026-09,median_mins,22.03
+K05,"End-to-end time, paid to delivered (minutes)",2026-09,p90_mins,37.75
+K05,"End-to-end time, paid to delivered (minutes)",2026-10,median_mins,24.42
+K05,"End-to-end time, paid to delivered (minutes)",2026-10,p90_mins,39.82
+K06,On-time rate (delivered within 30 min of pickup),2026-07,on_time_rate,0.979
+K06,On-time rate (delivered within 30 min of pickup),2026-08,on_time_rate,0.966
+K06,On-time rate (delivered within 30 min of pickup),2026-09,on_time_rate,0.962
+K06,On-time rate (delivered within 30 min of pickup),2026-10,on_time_rate,0.938
+K07,Failure rate (failed / settled) and top reason,2026-07,failure_rate,0.021
+K07,Failure rate (failed / settled) and top reason,2026-07,unreachable,12
+K07,Failure rate (failed / settled) and top reason,2026-07,refused,1
+K07,Failure rate (failed / settled) and top reason,2026-07,wrong_address,3
+K07,Failure rate (failed / settled) and top reason,2026-08,failure_rate,0.026
+K07,Failure rate (failed / settled) and top reason,2026-08,unreachable,32
+K07,Failure rate (failed / settled) and top reason,2026-08,refused,6
+K07,Failure rate (failed / settled) and top reason,2026-08,wrong_address,6
+K07,Failure rate (failed / settled) and top reason,2026-09,failure_rate,0.026
+K07,Failure rate (failed / settled) and top reason,2026-09,unreachable,34
+K07,Failure rate (failed / settled) and top reason,2026-09,refused,9
+K07,Failure rate (failed / settled) and top reason,2026-09,wrong_address,11
+K07,Failure rate (failed / settled) and top reason,2026-10,failure_rate,0.016
+K07,Failure rate (failed / settled) and top reason,2026-10,unreachable,2
+K07,Failure rate (failed / settled) and top reason,2026-10,refused,1
+K07,Failure rate (failed / settled) and top reason,2026-10,wrong_address,1
+K08,Cancellation rate (cancelled / activated) by stage,2026-07,cancellation_rate,0.03
+K08,Cancellation rate (cancelled / activated) by stage,2026-07,before_assignment,8
+K08,Cancellation rate (cancelled / activated) by stage,2026-07,after_assignment,11
+K08,Cancellation rate (cancelled / activated) by stage,2026-07,refused_at_pickup,4
+K08,Cancellation rate (cancelled / activated) by stage,2026-08,cancellation_rate,0.03
+K08,Cancellation rate (cancelled / activated) by stage,2026-08,before_assignment,19
+K08,Cancellation rate (cancelled / activated) by stage,2026-08,after_assignment,27
+K08,Cancellation rate (cancelled / activated) by stage,2026-08,refused_at_pickup,6
+K08,Cancellation rate (cancelled / activated) by stage,2026-09,cancellation_rate,0.033
+K08,Cancellation rate (cancelled / activated) by stage,2026-09,before_assignment,34
+K08,Cancellation rate (cancelled / activated) by stage,2026-09,after_assignment,28
+K08,Cancellation rate (cancelled / activated) by stage,2026-09,refused_at_pickup,7
+K08,Cancellation rate (cancelled / activated) by stage,2026-10,cancellation_rate,0.028
+K08,Cancellation rate (cancelled / activated) by stage,2026-10,before_assignment,3
+K08,Cancellation rate (cancelled / activated) by stage,2026-10,after_assignment,2
+K08,Cancellation rate (cancelled / activated) by stage,2026-10,refused_at_pickup,2
+K09,Queue rate and median queue time; peak and the worst hour,2026-07,queue_rate,0.031
+K09,Queue rate and median queue time; peak and the worst hour,2026-07,peak_queue_rate,0.007
+K09,Queue rate and median queue time; peak and the worst hour,2026-07,median_queue_mins,7.22
+K09,Queue rate and median queue time; peak and the worst hour,2026-07,worst_hour,13
+K09,Queue rate and median queue time; peak and the worst hour,2026-07,worst_hour_rate,0.25
+K09,Queue rate and median queue time; peak and the worst hour,2026-08,queue_rate,0.123
+K09,Queue rate and median queue time; peak and the worst hour,2026-08,peak_queue_rate,0.118
+K09,Queue rate and median queue time; peak and the worst hour,2026-08,median_queue_mins,9.13
+K09,Queue rate and median queue time; peak and the worst hour,2026-08,worst_hour,13
+K09,Queue rate and median queue time; peak and the worst hour,2026-08,worst_hour_rate,0.29
+K09,Queue rate and median queue time; peak and the worst hour,2026-09,queue_rate,0.215
+K09,Queue rate and median queue time; peak and the worst hour,2026-09,peak_queue_rate,0.219
+K09,Queue rate and median queue time; peak and the worst hour,2026-09,median_queue_mins,8.38
+K09,Queue rate and median queue time; peak and the worst hour,2026-09,worst_hour,14
+K09,Queue rate and median queue time; peak and the worst hour,2026-09,worst_hour_rate,0.388
+K09,Queue rate and median queue time; peak and the worst hour,2026-10,queue_rate,0.235
+K09,Queue rate and median queue time; peak and the worst hour,2026-10,peak_queue_rate,0.241
+K09,Queue rate and median queue time; peak and the worst hour,2026-10,median_queue_mins,8.13
+K09,Queue rate and median queue time; peak and the worst hour,2026-10,worst_hour,14
+K09,Queue rate and median queue time; peak and the worst hour,2026-10,worst_hour_rate,0.706
+K10,Proof rate and without-code share,2026-07,proof_rate,1.0
+K10,Proof rate and without-code share,2026-07,without_code_share,0.027
+K10,Proof rate and without-code share,2026-08,proof_rate,1.0
+K10,Proof rate and without-code share,2026-08,without_code_share,0.021
+K10,Proof rate and without-code share,2026-09,proof_rate,1.0
+K10,Proof rate and without-code share,2026-09,without_code_share,0.029
+K10,Proof rate and without-code share,2026-10,proof_rate,1.0
+K10,Proof rate and without-code share,2026-10,without_code_share,0.025
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-07,vendor_delay_rate,0.209
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-07,worst_vendor,Grillz & Pepper Soup
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-08,vendor_delay_rate,0.159
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-08,worst_vendor,Grillz & Pepper Soup
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-09,vendor_delay_rate,0.161
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-09,worst_vendor,Grillz & Pepper Soup
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-10,vendor_delay_rate,0.16
+K11,"Vendor delay rate (per month, all vendors; vendor detail in v_vendor_week)",2026-10,worst_vendor,Grillz & Pepper Soup
+K12,Settled deliveries per day (north star) vs break-even,2026-07,settled_per_day,28.7
+K12,Settled deliveries per day (north star) vs break-even,2026-07,breakeven_per_day,39.0
+K12,Settled deliveries per day (north star) vs break-even,2026-07,days_at_or_above_breakeven,5
+K12,Settled deliveries per day (north star) vs break-even,2026-07,days,26
+K12,Settled deliveries per day (north star) vs break-even,2026-08,settled_per_day,53.8
+K12,Settled deliveries per day (north star) vs break-even,2026-08,breakeven_per_day,40.3
+K12,Settled deliveries per day (north star) vs break-even,2026-08,days_at_or_above_breakeven,28
+K12,Settled deliveries per day (north star) vs break-even,2026-08,days,31
+K12,Settled deliveries per day (north star) vs break-even,2026-09,settled_per_day,68.2
+K12,Settled deliveries per day (north star) vs break-even,2026-09,breakeven_per_day,42.0
+K12,Settled deliveries per day (north star) vs break-even,2026-09,days_at_or_above_breakeven,30
+K12,Settled deliveries per day (north star) vs break-even,2026-09,days,30
+K12,Settled deliveries per day (north star) vs break-even,2026-10,settled_per_day,81.3
+K12,Settled deliveries per day (north star) vs break-even,2026-10,breakeven_per_day,45.4
+K12,Settled deliveries per day (north star) vs break-even,2026-10,days_at_or_above_breakeven,3
+K12,Settled deliveries per day (north star) vs break-even,2026-10,days,3
+K13,Settled deliveries per active vendor per day,2026-07,settled_per_active_vendor,6.1
+K13,Settled deliveries per active vendor per day,2026-08,settled_per_active_vendor,7.4
+K13,Settled deliveries per active vendor per day,2026-09,settled_per_active_vendor,8.7
+K13,Settled deliveries per active vendor per day,2026-10,settled_per_active_vendor,10.6
+K14,Demand: peak share and payment expiry rate,2026-07,peak_share,0.716
+K14,Demand: peak share and payment expiry rate,2026-07,expiry_rate,0.017
+K14,Demand: peak share and payment expiry rate,2026-08,peak_share,0.706
+K14,Demand: peak share and payment expiry rate,2026-08,expiry_rate,0.013
+K14,Demand: peak share and payment expiry rate,2026-09,peak_share,0.713
+K14,Demand: peak share and payment expiry rate,2026-09,expiry_rate,0.016
+K14,Demand: peak share and payment expiry rate,2026-10,peak_share,0.676
+K14,Demand: peak share and payment expiry rate,2026-10,expiry_rate,0.02
+K15,Active vendors and anchors (last full week of the month),2026-07,active_vendors,7
+K15,Active vendors and anchors (last full week of the month),2026-07,anchor_vendors,0
+K15,Active vendors and anchors (last full week of the month),2026-08,active_vendors,8
+K15,Active vendors and anchors (last full week of the month),2026-08,anchor_vendors,0
+K15,Active vendors and anchors (last full week of the month),2026-09,active_vendors,8
+K15,Active vendors and anchors (last full week of the month),2026-09,anchor_vendors,0
+K16,Vendor retention (active this week and last ÷ active last week),2026-07,weekly_retention,1.0
+K16,Vendor retention (active this week and last ÷ active last week),2026-08,weekly_retention,1.0
+K16,Vendor retention (active this week and last ÷ active last week),2026-09,weekly_retention,1.0
+K17,Revenue (₦),2026-07,revenue_ngn,536940
+K17,Revenue (₦),2026-07,revenue_per_day_ngn,20652.0
+K17,Revenue (₦),2026-08,revenue_ngn,1475640
+K17,Revenue (₦),2026-08,revenue_per_day_ngn,47601.0
+K17,Revenue (₦),2026-09,revenue_ngn,1848600
+K17,Revenue (₦),2026-09,revenue_per_day_ngn,61620.0
+K17,Revenue (₦),2026-10,revenue_ngn,220320
+K17,Revenue (₦),2026-10,revenue_per_day_ngn,73440.0
+K18,All-in cost per settled delivery (₦),2026-07,cost_per_settled_ngn,1219.0
+K18,All-in cost per settled delivery (₦),2026-08,cost_per_settled_ngn,676.0
+K18,All-in cost per settled delivery (₦),2026-09,cost_per_settled_ngn,558.0
+K18,All-in cost per settled delivery (₦),2026-10,cost_per_settled_ngn,507.0
+K19,Cyclist pay (₦),2026-07,cyclist_pay_ngn,512970
+K19,Cyclist pay (₦),2026-07,of_which_bonus_ngn,150
+K19,Cyclist pay (₦),2026-08,cyclist_pay_ngn,645360
+K19,Cyclist pay (₦),2026-08,of_which_bonus_ngn,30900
+K19,Cyclist pay (₦),2026-09,cyclist_pay_ngn,671160
+K19,Cyclist pay (₦),2026-09,of_which_bonus_ngn,79800
+K19,Cyclist pay (₦),2026-10,cyclist_pay_ngn,76230
+K19,Cyclist pay (₦),2026-10,of_which_bonus_ngn,11550
+K20,Zone operating profit and margin (₦),2026-07,profit_ngn,-374014.0
+K20,Zone operating profit and margin (₦),2026-07,margin,-0.697
+K20,Zone operating profit and margin (₦),2026-08,profit_ngn,347836.0
+K20,Zone operating profit and margin (₦),2026-08,margin,0.236
+K20,Zone operating profit and margin (₦),2026-09,profit_ngn,706200.0
+K20,Zone operating profit and margin (₦),2026-09,margin,0.382
+K20,Zone operating profit and margin (₦),2026-10,profit_ngn,96568.0
+K20,Zone operating profit and margin (₦),2026-10,margin,0.438
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-07,utilisation,0.157
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-07,early_shift,0.136
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-07,late_shift,0.165
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-08,utilisation,0.294
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-08,early_shift,0.246
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-08,late_shift,0.314
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-09,utilisation,0.378
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-09,early_shift,0.333
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-09,late_shift,0.396
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-10,utilisation,0.439
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-10,early_shift,0.431
+K21,"Cyclist utilisation (busy ÷ shift time), whole day and by shift pattern",2026-10,late_shift,0.442
+K22,Settled deliveries per cyclist per shift,2026-07,settled_per_shift,3.4
+K22,Settled deliveries per cyclist per shift,2026-08,settled_per_shift,6.3
+K22,Settled deliveries per cyclist per shift,2026-09,settled_per_shift,8.0
+K22,Settled deliveries per cyclist per shift,2026-10,settled_per_shift,8.7
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-07,unresponsive_rate,0.031
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-07,worst_cyclist,Amaka C.
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-08,unresponsive_rate,0.031
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-08,worst_cyclist,Amaka C.
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-09,unresponsive_rate,0.037
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-09,worst_cyclist,Amaka C.
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-10,unresponsive_rate,0.039
+K23,Cyclist unresponsive rate (missed offers ÷ offers) and worst cyclist,2026-10,worst_cyclist,Ifeanyi K.
