@@ -47,12 +47,12 @@ Every claim in the documents carries a label: **[Source]** (cited), **[Assumptio
 
 | Document | Contents |
 | --- | --- |
-| [Business Requirements Document](docs/Airand_BRD.pdf) | Objectives, gap analysis, 23 business requirements, 24 business rules, scope, risks |
-| [Software Requirements Specification](docs/Airand_SRS.pdf) | Functional and non-functional requirements, user stories with acceptance criteria, traceability matrix |
+| [Business Requirements Document](docs/Airand%20%E2%80%94%20Business%20Requirements%20Document%20%28BRD%29.docx) | Objectives, gap analysis, 23 business requirements, 24 business rules, scope, risks |
+| [Software Requirements Specification](docs/Airand%20%E2%80%94%20Software%20Requirements%20Specification%20%28SRS%29.docx) | Functional and non-functional requirements, user stories with acceptance criteria, traceability matrix |
 | [Wireframes](docs/Airand_Wireframes.pdf) | Admin console, vendor app, cyclist app and receiver page |
-| [Data model](docs/Airand_Data_Model.pdf) | ERD, data dictionary, event taxonomy |
-| [KPI definitions](docs/Airand_KPI_Definitions.pdf) | 23 KPIs, driver tree, counting rules, targets |
-| [UAT pack](docs/Airand_UAT_Pack.pdf) | Test plan, 49 tests, defect template, requirement-to-test traceability |
+| [Data model](docs/Airand%20%E2%80%94%20Data%20Model%20%26%20Data%20Dictionary.docx) | ERD, data dictionary, event taxonomy |
+| [KPI definitions](docs/Airand%20%E2%80%94%20KPI%20Definitions.docx) | 23 KPIs, driver tree, counting rules, targets |
+| [UAT pack](docs/Airand%20%E2%80%94%20UAT%20Pack.docx) | Test plan, 49 tests, defect template, requirement-to-test traceability |
 
 ---
 
@@ -74,7 +74,7 @@ Every claim in the documents carries a label: **[Source]** (cited), **[Assumptio
 │   ├── cyclist_shift_SIMULATED.csv     one row per shift: utilisation, pay, missed offers
 │   ├── vendor_week_SIMULATED.csv       one row per vendor per week
 │   └── kpi_results_by_month_SIMULATED.csv
-└── docs/                          PDFs of the documents above (BRD, SRS, wireframes, data model, KPIs, UAT) and the unit-economics model
+└── docs/                          The documents above (Word), wireframes (PDF) and the unit-economics model (Excel)
 ```
 
 ### The dataset at a glance
